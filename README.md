@@ -7,6 +7,8 @@ https://medium.com/@gustavo.ponce.ch/spring-boot-spring-mvc-spring-security-mysq
 
 Features:
 one click deploy
+
+
 hsql db is in memory. If you need a persistanct storage, please change the application.properties file.
 
 eg:
